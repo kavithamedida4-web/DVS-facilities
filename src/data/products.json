@@ -1,0 +1,381 @@
+[
+  {
+    "id": "chm-1",
+    "name": "Hospital Grade Multi-Surface Floor Disinfectant (5 Litres)",
+    "category": "Cleaning Chemicals",
+    "price": 699,
+    "original_price": 850,
+    "description": "Anti-bacterial disinfectant concentrate effective against 99.9% pathogens. Ideal for marble, granite, epoxy floors, corridors, and high-traffic healthcare environments.",
+    "short_description": "Concentrated 5L floor disinfectant for commercial facilities",
+    "sku": "DVS-CHM-001",
+    "stock_status": "in_stock",
+    "image_url": "https://images.unsplash.com/photo-1584813470613-5b1c1cad3d69?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1584813470613-5b1c1cad3d69?auto=format&fit=crop&w=800&q=80"
+    ],
+    "display_order": 1,
+    "is_active": true,
+    "updated_at": "2026-09-30T12:27:15.003Z"
+  },
+  {
+    "id": "chm-2",
+    "name": "Heavy Duty Kitchen Degreaser & Chimney Cleaner (5 Litres)",
+    "category": "Cleaning Chemicals",
+    "price": 820,
+    "original_price": 1100,
+    "description": "Industrial-strength alkaline degreaser that penetrates burnt grease, commercial stove oils, exhaust hoods, and food processing prep tables without corrosive fumes.",
+    "short_description": "Heavy duty kitchen oil & grease remover concentrate",
+    "sku": "DVS-CHM-002",
+    "stock_status": "in_stock",
+    "image_url": "https://images.unsplash.com/photo-1585421514284-efb74c2b69ba?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1585421514284-efb74c2b69ba?auto=format&fit=crop&w=800&q=80"
+    ],
+    "display_order": 2,
+    "is_active": true
+  },
+  {
+    "id": "chm-3",
+    "name": "Streak-Free Glass, Mirror & Facade Solution (5 Litres)",
+    "category": "Cleaning Chemicals",
+    "price": 480,
+    "original_price": 650,
+    "description": "Fast-evaporating window and mirror cleaner with anti-static formulation. Eliminates finger smudges, dust build-up, and water spots on glass partitions and counters.",
+    "short_description": "Crystal-clear streak-free glass & mirror cleaner",
+    "sku": "DVS-CHM-003",
+    "stock_status": "in_stock",
+    "image_url": "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=800&q=80"
+    ],
+    "display_order": 3,
+    "is_active": true
+  },
+  {
+    "id": "chm-4",
+    "name": "Toilet Bowl Descaler & Hard Water Scale Remover (5 Litres)",
+    "category": "Cleaning Chemicals",
+    "price": 560,
+    "original_price": 750,
+    "description": "Thickened clinging acid descaling gel that dissolves tough hard water stains, lime scale, and rust rings from ceramic commodes and urinals with zero scrubbing strain.",
+    "short_description": "Powerful limescale & hard water stain remover",
+    "sku": "DVS-CHM-004",
+    "stock_status": "in_stock",
+    "image_url": "https://images.unsplash.com/photo-1585421514785-3a05cf52f5ee?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1585421514785-3a05cf52f5ee?auto=format&fit=crop&w=800&q=80"
+    ],
+    "display_order": 4,
+    "is_active": true
+  },
+  {
+    "id": "tls-1",
+    "name": "Color Coded Premium Microfiber Towels (Pack of 12 - 380 GSM)",
+    "category": "Cleaning Tools",
+    "price": 590,
+    "original_price": 799,
+    "description": "Lint-free, scratch-proof plush microfiber cloths categorized for pantry (blue), washroom (red), glass (green), and workstations (yellow) to prevent cross-contamination.",
+    "short_description": "12-pack 380 GSM multi-color microfiber cloths",
+    "sku": "DVS-TLS-001",
+    "stock_status": "in_stock",
+    "image_url": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=800&q=80"
+    ],
+    "display_order": 5,
+    "is_active": true
+  },
+  {
+    "id": "tls-2",
+    "name": "Industrial Kentucky Wet Mop with Aluminum Ergonomic Handle",
+    "category": "Cleaning Tools",
+    "price": 420,
+    "original_price": 550,
+    "description": "400g looped-end cotton yarn wet mop head with heavy-duty quick-release clamp and lightweight anodized aluminum telescopic pole for corporate and hospital corridors.",
+    "short_description": "Commercial heavy-duty wet mop with lock clamp",
+    "sku": "DVS-TLS-002",
+    "stock_status": "in_stock",
+    "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80"
+    ],
+    "display_order": 6,
+    "is_active": true
+  },
+  {
+    "id": "tls-3",
+    "name": "Double Rubber Floor & Window Squeegee Wiper (55 cm)",
+    "category": "Cleaning Tools",
+    "price": 380,
+    "original_price": 499,
+    "description": "Durable reinforced metal frame with high-density twin foam rubber blades. Instantly dries wet bathroom floors, basement spillages, and glass walls.",
+    "short_description": "55cm heavy-duty rubber floor squeegee wiper",
+    "sku": "DVS-TLS-003",
+    "stock_status": "in_stock",
+    "image_url": "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?auto=format&fit=crop&w=800&q=80"
+    ],
+    "display_order": 7,
+    "is_active": true
+  },
+  {
+    "id": "tls-4",
+    "name": "High-Reach Telescopic Cobweb Duster & Extension Pole (3 Metres)",
+    "category": "Cleaning Tools",
+    "price": 890,
+    "original_price": 1200,
+    "description": "Electrostatic flagged-bristle dome duster with 3-section lockable aluminum telescopic rod. Effortlessly reaches high false ceilings, HVAC duct grilles, and chandeliers.",
+    "short_description": "3-meter extendable high ceiling cobweb duster",
+    "sku": "DVS-TLS-004",
+    "stock_status": "in_stock",
+    "image_url": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "display_order": 8,
+    "is_active": true
+  },
+  {
+    "id": "mch-1",
+    "name": "Heavy-Duty Single Disc Floor Scrubber & Polisher (17 Inch / 1.5 HP)",
+    "category": "Cleaning Machines",
+    "price": 48500,
+    "original_price": 56000,
+    "description": "All-metal planetary steel gear transmission, safety handle switch, and 1200W high-torque motor. Ideal for diamond marble polishing, crystallization, and granite restoration.",
+    "short_description": "Commercial 17-inch floor scrubber, buffer & polisher",
+    "sku": "DVS-MCH-001",
+    "stock_status": "in_stock",
+    "image_url": "https://images.unsplash.com/photo-1628177142898-93e36e4e3a50?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1628177142898-93e36e4e3a50?auto=format&fit=crop&w=800&q=80"
+    ],
+    "display_order": 9,
+    "is_active": true
+  },
+  {
+    "id": "mch-2",
+    "name": "Industrial Wet & Dry Vacuum Cleaner (60 Litres Twin Motor)",
+    "category": "Cleaning Machines",
+    "price": 18900,
+    "original_price": 23500,
+    "description": "Dual 2000W copper-wound suction turbines, stainless steel collection barrel, washable HEPA filter, and full accessory set for post-construction cleanup and carpet cleaning.",
+    "short_description": "60L dual-motor heavy industrial wet & dry vacuum",
+    "sku": "DVS-MCH-002",
+    "stock_status": "in_stock",
+    "image_url": "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=800&q=80"
+    ],
+    "display_order": 10,
+    "is_active": true
+  },
+  {
+    "id": "mch-3",
+    "name": "Commercial High-Pressure Washer Water Jet (160 Bar)",
+    "category": "Cleaning Machines",
+    "price": 24500,
+    "original_price": 29900,
+    "description": "Induction motor pressure washer with forged brass pump, 10m high-tensile steel braided hose, and auto-stop trigger gun for building exterior facades, parking lots, and fleet washing.",
+    "short_description": "160 Bar commercial induction high-pressure jet cleaner",
+    "sku": "DVS-MCH-003",
+    "stock_status": "in_stock",
+    "image_url": "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?auto=format&fit=crop&w=800&q=80"
+    ],
+    "display_order": 11,
+    "is_active": true
+  },
+  {
+    "id": "mch-4",
+    "name": "Walk-Behind Automatic Battery Floor Scrubber Dryer (50 Litres)",
+    "category": "Cleaning Machines",
+    "price": 145000,
+    "original_price": 175000,
+    "description": "Industrial cordless battery-powered automatic scrubber dryer that simultaneously scrubs, washes, and vacuum-dries supermarket aisles, airport lounges, and warehouse corridors.",
+    "short_description": "Battery powered 50L walk-behind floor scrubber dryer",
+    "sku": "DVS-MCH-004",
+    "stock_status": "in_stock",
+    "image_url": "https://images.unsplash.com/photo-1628177142898-93e36e4e3a50?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1628177142898-93e36e4e3a50?auto=format&fit=crop&w=800&q=80"
+    ],
+    "display_order": 12,
+    "is_active": true
+  },
+  {
+    "id": "cns-1",
+    "name": "2-Ply Virgin Pulp Toilet Paper Jumbo Rolls (Box of 12 Rolls)",
+    "category": "Housekeeping Consumables",
+    "price": 840,
+    "original_price": 1050,
+    "description": "100% virgin wood pulp, ultra-soft, fast-dissolving septic-safe 2-ply jumbo rolls designed for commercial high-traffic corporate washrooms and hospitality suites.",
+    "short_description": "Pack of 12 jumbo toilet paper rolls for commercial restrooms",
+    "sku": "DVS-CNS-001",
+    "stock_status": "in_stock",
+    "image_url": "https://images.unsplash.com/photo-1584556812952-905ffd0c611a?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1584556812952-905ffd0c611a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "display_order": 13,
+    "is_active": true
+  },
+  {
+    "id": "cns-2",
+    "name": "Absorbent C-Fold & M-Fold Hand Paper Towels (2400 Sheets Carton)",
+    "category": "Housekeeping Consumables",
+    "price": 720,
+    "original_price": 950,
+    "description": "High wet-strength embossed virgin paper towels that dry hands in one pull. Fits all standard wall-mounted commercial restroom dispensers.",
+    "short_description": "Carton of 2400 premium absorbent paper hand towels",
+    "sku": "DVS-CNS-002",
+    "stock_status": "in_stock",
+    "image_url": "https://images.unsplash.com/photo-1584556812952-905ffd0c611a?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1584556812952-905ffd0c611a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "display_order": 14,
+    "is_active": true
+  },
+  {
+    "id": "cns-3",
+    "name": "Moisturizing Antibacterial Liquid Hand Wash (5 Litres Can)",
+    "category": "Housekeeping Consumables",
+    "price": 450,
+    "original_price": 600,
+    "description": "Skin-friendly pH 5.5 balanced moisturizing liquid soap enriched with vitamin E and aloe vera. Leaves a pleasant refreshing aroma in executive restrooms.",
+    "short_description": "Gentle moisturizing antibacterial hand wash refill can",
+    "sku": "DVS-CNS-003",
+    "stock_status": "in_stock",
+    "image_url": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=800&q=80"
+    ],
+    "display_order": 15,
+    "is_active": true
+  },
+  {
+    "id": "cns-4",
+    "name": "Enzyme Anti-Splash Urinal Fragrance Screen Mats (Pack of 10)",
+    "category": "Housekeeping Consumables",
+    "price": 650,
+    "original_price": 850,
+    "description": "30-day continuous fragrance deodorizer mat with active enzymatic bacteria that eliminate drain odors and prevent urinal splashing, keeping floors clean.",
+    "short_description": "10-pack anti-splash deodorizing urinal screen mats",
+    "sku": "DVS-CNS-004",
+    "stock_status": "in_stock",
+    "image_url": "https://images.unsplash.com/photo-1607613009820-a29f7bb81c04?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1607613009820-a29f7bb81c04?auto=format&fit=crop&w=800&q=80"
+    ],
+    "display_order": 16,
+    "is_active": true
+  },
+  {
+    "id": "eqp-1",
+    "name": "Commercial 3-Tier Multi-Function Janitor Housekeeping Cart",
+    "category": "Housekeeping Equipment",
+    "price": 7800,
+    "original_price": 9500,
+    "description": "Reinforced structural foam trolley with 3 heavy-duty storage shelves, side mop holders, smooth non-marking caster wheels, and a 120-litre zippered yellow vinyl waste bag.",
+    "short_description": "3-shelf heavy duty commercial janitor service trolley",
+    "sku": "DVS-EQP-001",
+    "stock_status": "in_stock",
+    "image_url": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=800&q=80"
+    ],
+    "display_order": 17,
+    "is_active": true
+  },
+  {
+    "id": "eqp-2",
+    "name": "Double Bucket Down-Press Wringer Mop Trolley (36 Litres)",
+    "category": "Housekeeping Equipment",
+    "price": 3400,
+    "original_price": 4200,
+    "description": "Dual clean and dirty water bucket partition with heavy-duty ergonomic steel down-press wringer mechanism and 360-degree silent swivel wheels for janitorial teams.",
+    "short_description": "36L dual-bucket mopping trolley with down-press wringer",
+    "sku": "DVS-EQP-002",
+    "stock_status": "in_stock",
+    "image_url": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=800&q=80"
+    ],
+    "display_order": 18,
+    "is_active": true
+  },
+  {
+    "id": "eqp-3",
+    "name": "High-Visibility 'Caution Wet Floor' Folding Signboards (Set of 4)",
+    "category": "Housekeeping Equipment",
+    "price": 1100,
+    "original_price": 1450,
+    "description": "OSHA-compliant bright fluorescent yellow A-frame warning boards with bilingual text and universal slipping icon. Folds flat for compact transport.",
+    "short_description": "Set of 4 heavy-duty hazard caution safety signboards",
+    "sku": "DVS-EQP-003",
+    "stock_status": "in_stock",
+    "image_url": "https://images.unsplash.com/photo-1584556812952-905ffd0c611a?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1584556812952-905ffd0c611a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "display_order": 19,
+    "is_active": true
+  },
+  {
+    "id": "eqp-4",
+    "name": "Brushed Stainless Steel Soft-Close Pedal Dustbin (30 Litres)",
+    "category": "Housekeeping Equipment",
+    "price": 2200,
+    "original_price": 2800,
+    "description": "Fingerprint-resistant commercial SS-304 sanitary dustbin with robust foot pedal, silent hydraulic lid damper, and removable inner plastic bin with bag tuck opening.",
+    "short_description": "30L brushed stainless steel hands-free pedal bin",
+    "sku": "DVS-EQP-004",
+    "stock_status": "in_stock",
+    "image_url": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "display_order": 20,
+    "is_active": true
+  },
+  {
+    "name": "testing",
+    "category": "Cleaning Chemicals",
+    "description": "aSDFGHLGJDOLVKFGSM",
+    "short_description": "very good product",
+    "price": 500,
+    "original_price": 798,
+    "sku": "DVS-7274",
+    "stock_status": "in_stock",
+    "image_url": "/uploads/products/1783439013267--ghk-cu-50mg-copper-peptide-1791008188265.webp",
+    "images": [
+      "/uploads/products/1783439013267--ghk-cu-50mg-copper-peptide-1791008188265.webp"
+    ],
+    "display_order": 20,
+    "is_active": true,
+    "id": "prod-1791008188333-rng7v",
+    "created_at": "2026-10-03T06:16:28.333Z",
+    "updated_at": "2026-10-03T06:18:14.944Z"
+  },
+  {
+    "name": "aSDFG",
+    "category": "Cleaning Chemicals",
+    "description": "SCBVN",
+    "short_description": "QSDFG",
+    "price": -0.01,
+    "original_price": 23,
+    "sku": "DVS-4881",
+    "stock_status": "low_stock",
+    "image_url": "/uploads/products/electrician-1791026049020.jpg",
+    "images": [
+      "/uploads/products/electrician-1791026049020.jpg"
+    ],
+    "display_order": 21,
+    "is_active": true,
+    "id": "prod-1791026049116-l92wn",
+    "created_at": "2026-10-03T11:14:09.116Z",
+    "updated_at": "2026-10-03T11:14:09.116Z"
+  }
+]
